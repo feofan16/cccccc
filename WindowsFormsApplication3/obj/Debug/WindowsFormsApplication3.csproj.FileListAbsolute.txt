@@ -1,0 +1,23 @@
+c:\users\79995\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+c:\users\79995\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+c:\users\79995\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+c:\users\79995\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\EntityFramework.dll
+c:\users\79995\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\79995\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\System.Data.SQLite.dll
+c:\users\79995\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\79995\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\79995\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\EntityFramework.xml
+c:\users\79995\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\79995\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\System.Data.SQLite.xml
+c:\users\79995\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+c:\users\79995\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+c:\users\79995\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\79995\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+c:\users\79995\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+c:\users\79995\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\79995\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\79995\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Ориентир.resources
+C:\Users\79995\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form3.resources
+C:\Users\79995\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\79995\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\79995\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
